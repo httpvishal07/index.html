@@ -1,4 +1,4 @@
 # index.html
-author = vishal sharma 
+author = vishal 
 <br>
 real world app 
